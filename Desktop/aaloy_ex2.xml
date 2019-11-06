@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasques>
+    <tasca>
+        <data codi="1">2019-12-29</data>
+        <descripcio>Llista de compra per nadal</descripcio>
+        <responsable>Joan</responsable>
+        <urgencia>Mitja</urgencia>
+        <fet>Si</fet>
+    </tasca>
+    <tasca>
+        <data codi="2">2020-01-01</data>
+        <descripcio>Recollir restes sopar</descripcio>
+        <responsable>Joan</responsable>
+        <urgencia>Alta</urgencia>
+        <fet>No</fet>
+    </tasca>
+    <tasca>
+        <data codi="3">2020-01-05</data>
+        <descripcio>Embolicar regals</descripcio>
+        <responsable>Maria</responsable>
+        <urgencia>Mitja</urgencia>
+        <fet>No</fet>
+    </tasca>
+    <tasca>
+        <data codi="4">2020-01-06</data>
+        <descripcio>Dinar de reis</descripcio>
+        <responsable>Tots</responsable>
+        <urgencia>Alta</urgencia>
+        <fet>No</fet>
+    </tasca>
+    <tasca>
+        <data codi="5">2020-01-07</data>
+        <descripcio>Preparar tornada</descripcio>
+        <responsable>Joan</responsable>
+        <urgencia>Baixa</urgencia>
+        <fet>No</fet>
+    </tasca>
+</tasques>
